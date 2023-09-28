@@ -2,7 +2,7 @@ proxy-providers:
   AKUN:
     type: http
     path: "./akun.yaml"
-    url: https://raw.githubusercontent.com/Wallhack00/projects-1/main/akun1.yaml
+    url: https://raw.githubusercontent.com/Wallhack00/projects-2/main/akun1.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
